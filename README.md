@@ -1,7 +1,7 @@
-<h1>Film Sitesi Projesi</h1>
+<h1>Movie Site Project</h1>
 
-HTML ve CSS kullanarak bir film sitesinin ön yüzü geliştirildi. Bu projeye responsive tasarım uygulanarak küçük ekranlar (mobil ekran) için de tasarlandı. Ayrıca Javascript programlama dili ile hem koyu tema hem de açık tema kullanımı gerçekleştirildi.
+The frontend of a movie website was developed using HTML and CSS. This project was designed for small screens (mobile screens) by applying responsive design. In addition, both dark and light themes were used with the Javascript programming language.
 
-<h2>Ekran Görüntüsü</h2>
+<h2>Screenshot</h2>
 
 ![](/img/ekran.gif)
